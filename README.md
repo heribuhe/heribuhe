@@ -1,7 +1,5 @@
 # 👋 ¡Hola! Soy Heriberto Buenrostro Hernández
 
-![Banner](https://source.unsplash.com/1000x250/?technology,coding)
-
 💻 Desarrollador apasionado por la tecnología y la innovación.  
 🚀 Me encanta aprender y crear proyectos interesantes.  
 🎯 Especializado en en desarrollo web y aplicaciones de escritorio full stack developer Junior.
