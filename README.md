@@ -3,6 +3,7 @@
 💻 Desarrollador apasionado por la tecnología y la innovación.  
 🚀 Me encanta aprender y crear proyectos interesantes.  
 🎯 Especializado en en desarrollo web y aplicaciones de escritorio full stack developer Junior.
+
 🧑‍🎓 Licenciado en tecnologias de la informacion.
 ---
 
