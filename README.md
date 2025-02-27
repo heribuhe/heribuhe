@@ -22,7 +22,7 @@
 
 ## 🌍 Encuéntrame en:
 
-[![x](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/TuUsuario](https://x.com/heri_004))
+[![x](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/heri_004)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heriberto-buenrostro-83532b2b5/)
 
 ---
