@@ -16,24 +16,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-<div class="flex flex-wrap items-center gap-4 mt-4">
-  <a href="https://github.com/tu_usuario" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
-      alt="GitHub"
-      class="h-10 w-auto hover:opacity-90 transition duration-200"
-    >
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" 
-      alt="Java"
-      class="h-10 w-auto hover:opacity-90 transition duration-200"
-    >
-  </a>
-</div>
+
 
 ---
 
